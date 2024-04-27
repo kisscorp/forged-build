@@ -1,0 +1,213 @@
+{
+  "gridItems": [],
+  "panels": [
+      {
+          "settings": [],
+          "panes": [
+              {
+                  "settings": [
+                      {
+                          "attributes": [],
+                          "name": "contentType",
+                          "displayName": "Content Type",
+                          "type": 1,
+                          "value": "text/markdown",
+                          "computedValue": "text/markdown"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "content",
+                          "displayName": "Content",
+                          "type": 1,
+                          "value": "Experience the fusion of robust flavors and healthy ingredients with our unique Meatless Skillet Lasagna. This dish combines the protein-rich goodness of lentils, the vibrant flavors of sun-dried tomatoes, mushrooms, eggplant, broccoli, cauliflower, and a fresh salad blend, all layered between Barilla lasagna noodles. Our recipe elevates the traditional lasagna with a spicy kick from Arrabbiata sauce and a cheesy finish using Kraft's three cheese mix. It's a hearty, eco-friendly, and nutritious twist on a classic, perfect for those seeking a satisfying and meat-free Italian meal.",
+                          "computedValue": "Experience the fusion of robust flavors and healthy ingredients with our unique Meatless Skillet Lasagna. This dish combines the protein-rich goodness of lentils, the vibrant flavors of sun-dried tomatoes, mushrooms, eggplant, broccoli, cauliflower, and a fresh salad blend, all layered between Barilla lasagna noodles. Our recipe elevates the traditional lasagna with a spicy kick from Arrabbiata sauce and a cheesy finish using Kraft's three cheese mix. It's a hearty, eco-friendly, and nutritious twist on a classic, perfect for those seeking a satisfying and meat-free Italian meal."
+                      },
+                      {
+                          "attributes": [],
+                          "name": "jsScript",
+                          "displayName": "jsScript",
+                          "type": 1,
+                          "value": null,
+                          "computedValue": null
+                      }
+                  ],
+                  "locked": false,
+                  "contexts": [],
+                  "name": "summary",
+                  "label": "Summary",
+                  "contentPlugin": "snippet"
+              },
+              {
+                  "settings": [
+                      {
+                          "attributes": [],
+                          "name": "contentType",
+                          "displayName": "Content Type",
+                          "type": 1,
+                          "value": "text/markdown",
+                          "computedValue": "text/markdown"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "content",
+                          "displayName": "Content",
+                          "type": 1,
+                          "value": "* 1 cup of dry lentils\n* 1 cup sun-dried tomatoes, chopped\n* 2 cups of mushrooms, sliced\n* 1 medium eggplant, sliced\n* 1 cup of broccoli florets\n* 1 cup of cauliflower florets\n* 2 cups of salad blends (baby spinach & spring mix)\n* 12 Barilla lasagna noodles\n* 2 cups Kraft three cheese grated cheese mix\n* 2 cans of Arrabbiata tomato sauce (15 oz each)\n* 1 tablespoon olive oil\n* Salt to taste\n* 2 garlic cloves, minced",
+                          "computedValue": "* 1 cup of dry lentils\n* 1 cup sun-dried tomatoes, chopped\n* 2 cups of mushrooms, sliced\n* 1 medium eggplant, sliced\n* 1 cup of broccoli florets\n* 1 cup of cauliflower florets\n* 2 cups of salad blends (baby spinach & spring mix)\n* 12 Barilla lasagna noodles\n* 2 cups Kraft three cheese grated cheese mix\n* 2 cans of Arrabbiata tomato sauce (15 oz each)\n* 1 tablespoon olive oil\n* Salt to taste\n* 2 garlic cloves, minced"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "jsScript",
+                          "displayName": "jsScript",
+                          "type": 1,
+                          "value": null,
+                          "computedValue": null
+                      }
+                  ],
+                  "locked": false,
+                  "contexts": [],
+                  "name": "ingredients",
+                  "label": "Ingredients",
+                  "contentPlugin": "snippet"
+              },
+              {
+                  "settings": [
+                      {
+                          "attributes": [],
+                          "name": "contentType",
+                          "displayName": "Content Type",
+                          "type": 1,
+                          "value": "text/markdown",
+                          "computedValue": "text/markdown"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "content",
+                          "displayName": "Content",
+                          "type": 1,
+                          "value": "x",
+                          "computedValue": "x"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "jsScript",
+                          "displayName": "jsScript",
+                          "type": 1,
+                          "value": null,
+                          "computedValue": null
+                      }
+                  ],
+                  "locked": false,
+                  "contexts": [],
+                  "name": "instructions",
+                  "label": "Instructions",
+                  "contentPlugin": "snippet"
+              },
+              {
+                  "settings": [
+                      {
+                          "attributes": [],
+                          "name": "contentType",
+                          "displayName": "Content Type",
+                          "type": 1,
+                          "value": "text/markdown",
+                          "computedValue": "text/markdown"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "content",
+                          "displayName": "Content",
+                          "type": 1,
+                          "value": "x",
+                          "computedValue": "x"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "jsScript",
+                          "displayName": "jsScript",
+                          "type": 1,
+                          "value": null,
+                          "computedValue": null
+                      }
+                  ],
+                  "locked": false,
+                  "contexts": [],
+                  "name": "calories",
+                  "label": "Calories",
+                  "contentPlugin": "snippet"
+              },
+              {
+                  "settings": [
+                      {
+                          "attributes": [],
+                          "name": "contentType",
+                          "displayName": "Content Type",
+                          "type": 1,
+                          "value": "text/markdown",
+                          "computedValue": "text/markdown"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "content",
+                          "displayName": "Content",
+                          "type": 1,
+                          "value": "x",
+                          "computedValue": "x"
+                      },
+                      {
+                          "attributes": [],
+                          "name": "jsScript",
+                          "displayName": "jsScript",
+                          "type": 1,
+                          "value": null,
+                          "computedValue": null
+                      }
+                  ],
+                  "locked": false,
+                  "contexts": [],
+                  "name": "nutrition",
+                  "label": "Nutrition",
+                  "contentPlugin": "snippet"
+              }
+          ],
+          "stylePlugin": "",
+          "columnSetting": {
+              "settings": []
+          }
+      }
+  ],
+  "contexts": [],
+  "rowSettings": [
+      {
+          "settings": []
+      }
+  ],
+  "entityPermissions": {
+      "readUserIds": [
+          "*"
+      ],
+      "writeUserIds": [],
+      "deleteUserIds": []
+  },
+  "id": "e9c1ff0a-941e-47f7-8949-2855319de966",
+  "layoutType": "gridless",
+  "displayType": "page",
+  "name": "lasagne",
+  "title": "Lasagne",
+  "site": "spearhead-docs",
+  "path": "/lasagne",
+  "userId": "b7a9bac5-5fef-4aa6-bf12-d536c156e453",
+  "persistence": {
+      "dataduct": {
+          "settings": []
+      }
+  },
+  "interactions": {
+      "interactions": {
+          "listeners": []
+      }
+  },
+  "layoutSetting": {
+      "settings": []
+  }
+}
